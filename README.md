@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="assets/Console.png">
-</p align="center">
+</div>
 
 <p align="center">
 
