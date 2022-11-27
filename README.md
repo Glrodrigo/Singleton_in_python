@@ -8,11 +8,11 @@
     Podemos verificar abaixo o resultado deste sistema, em que foi utilizado o Singleton, um dos Design Patterns; em sua concepção:
 </div>
 
-<p align="center">
+<div align="center">
     <img src="assets/Console.png">
 </div>
 
-<p align="center">
+<div align="center">
 
 <h2> Desenvolvimento </h2>
 
