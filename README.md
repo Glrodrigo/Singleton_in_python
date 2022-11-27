@@ -12,7 +12,8 @@
     <img src="assets/Console.png">
 <p align="center">
 
-<div align="center">
-    <h2> Desenvolvimento </h2>
-    ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=flat-square)
+<h2> Desenvolvimento </h2>
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=flat-square)
+    
 </div>
